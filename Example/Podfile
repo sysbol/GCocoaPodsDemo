@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '9.0'
 
 target 'GCocoaPodsDemo_Example' do
-  pod 'GCocoaPodsDemo', :path => '../'
+    pod 'GCocoaPodsDemo' #, :path => '../'
 
   target 'GCocoaPodsDemo_Tests' do
     inherit! :search_paths
