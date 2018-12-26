@@ -30,7 +30,7 @@ TODO: 第一次创建公有库.第一次创建公有库.第一次创建公有库
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'GCocoaPodsDemo/Classes/**/*'
+  s.source_files = 'LYEmptyView'
   
   # s.resource_bundles = {
   #   'GCocoaPodsDemo' => ['GCocoaPodsDemo/Assets/*.png']
